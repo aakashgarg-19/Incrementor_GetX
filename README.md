@@ -1,16 +1,15 @@
-# getx_demo
+# Incrementor_GetX
 
-A new Flutter project.
+This is a Demo app to understand working Getx Library for flutter <br>
 
-## Getting Started
+## Getting Started With GetX
 
-This project is a starting point for a Flutter application.
+https://pub.dev/packages/get <br>
+GetX is an extra-light and powerful solution for Flutter. It combines high-performance, 
 
-A few resources to get you started if this is your first Flutter project:
+1. State management
+2. Intelligent dependency injection, and 
+3. Route management quickly and practically.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen-Shots 
+![image](https://user-images.githubusercontent.com/71538277/202413049-15a6e2a2-db81-459e-ba2f-87b24045c5d0.png)
